@@ -7,7 +7,7 @@ export const getGlobalData = () => {
     : 'Sabun & Parfum Laundry';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'Jakarta | Bogor | Bekasi | Depok | Tangerang | Purwokerto.';
+    : 'WA 085773009666 Jakarta | Purwokerto.';
 
   return {
     name,
