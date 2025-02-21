@@ -52,7 +52,7 @@ const ThemeSwitcher = () => {
     <div className="flex justify-center p-1 mt-6 bg-white dark:bg-gray-900 rounded-3xl">
       <button
         type="button"
-        aria-label="Use Dark Mode"
+        aria-label="Indonesia Gelap"
         onClick={() => {
           document.documentElement.classList.add('dark');
           localStorage.setItem('theme', 'dark');
@@ -64,7 +64,7 @@ const ThemeSwitcher = () => {
 
       <button
         type="button"
-        aria-label="Use Light Mode"
+        aria-label="Indonesia Terang"
         onClick={() => {
           document.documentElement.classList.remove('dark');
           localStorage.setItem('theme', 'light');
