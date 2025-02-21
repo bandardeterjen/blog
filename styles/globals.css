@@ -15,3 +15,8 @@ h6 {
 body {
   font-family: var(--font-secondary);
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
