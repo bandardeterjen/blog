@@ -127,10 +127,44 @@ footer a {
   background: #999;
   cursor: not-allowed;
 }
-.table img {
-  background: #333;
-  width: 100%;
-  height: auto;
-  padding: 1rem;
-  margin-top: 2rem;
+/* @group Tables */
+
+table {
+	margin: .75rem 0;
+	padding: 0;
+	
+	border-collapse: collapse;
 }
+table tr {
+	margin: 0;
+	padding: 0;
+	
+	border-top: 1px solid #ccc;
+	background-color: #fff;
+}
+	table tr:nth-child(2n) {
+		background-color: #f8f8f8;
+	}
+
+table tr th {
+	margin: 0;
+	padding: .35em .75em;
+	
+	font-weight: bold;
+	text-align: left;
+	
+	border: 1px solid #ccc;
+}
+
+table tr td {
+	margin: 0;
+	padding: .35em .75em;
+	
+	text-align: left;
+	
+	border: 1px solid #ccc;
+}
+
+table tr th :first-child, table tr td :first-child { margin-top: 0; }
+table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
+
