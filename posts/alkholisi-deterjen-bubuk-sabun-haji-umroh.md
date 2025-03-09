@@ -48,5 +48,5 @@ Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 ---
 > Postingan ini ditulis pada tanggal: **9 Maret 2025**
 
-— Oleh: **Wahyudi**
+— Oleh: [**Wahyudi**](/blog/author/wahyudi.html)
 
