@@ -68,10 +68,6 @@ footer a {
   color: white;
 }
 
-footer h3 {
-  text-align: left;
-}
-
  footer ul {
             list-style: none;
             padding: 0;
@@ -95,14 +91,14 @@ footer h3 {
 .footer-content {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
   flex-wrap: wrap;
 }
 .footer-column {
   flex: 1 1 30%;
  }
 
-        .social-media a {
+.social-media a {
   color: white;
   margin: 0 0.5rem;
   font-size: 1.2rem;
