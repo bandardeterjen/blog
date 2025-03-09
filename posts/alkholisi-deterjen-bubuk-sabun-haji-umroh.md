@@ -14,6 +14,9 @@ Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang
 - **Berat kemasan** : 700 gram
 - **Tokopedia** : https://www.tokopedia.com/
 - **Shopee** : https://shopee.co.id
+  
+> [!NOTE]
+> Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
 
 Dengan formula yang efektif, Alkholisi Deterjen Bubuk mampu mengangkat kotoran dan noda pada pakaian dengan sempurna. Tidak hanya itu, keunggulan lain dari produk ini adalah aman digunakan pada berbagai jenis kain, termasuk pakaian ihram yang sering digunakan oleh jemaah haji dan umroh. Karena tanpa aroma tambahan, deterjen ini tidak akan mengubah wangi pakaian Anda, sehingga Anda tetap merasa nyaman dan bersih tanpa harus khawatir dengan bau yang bisa mengganggu.
 
