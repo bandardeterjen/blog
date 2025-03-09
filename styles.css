@@ -102,37 +102,15 @@ footer h3 {
   flex: 1 1 30%;
  }
 
-        .contact-info div {
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-        }
-
-        .contact-info i {
-            margin-right: 10px;
-            font-size: 1.2em;
-        }
-
-        .social-media {
-            display: flex;
-            gap: 15px;
-            margin-top: 20px;
-        }
-
         .social-media a {
-            color: white;
-            font-size: 1.5em;
-            transition: transform 0.3s ease;
-        }
-
-        .social-media a:hover {
-            transform: scale(1.2);
-        }
-
-
+  color: white;
+  margin: 0 0.5rem;
+  font-size: 1.2rem;
+}
 
 @media (max-width: 768px) {
   .footer-content { flex-direction: column; }
+  .social-media { margin-top: 1rem; }
 }
 
 .content {
