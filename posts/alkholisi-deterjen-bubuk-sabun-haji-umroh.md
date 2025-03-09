@@ -23,9 +23,8 @@ Selain itu, produk ini juga hemat digunakan, karena dosisnya yang pas untuk kebu
 
 Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen Bubuk Tanpa Aroma, deterjen yang menjaga kebersihan pakaian Anda dan memberikan kenyamanan ekstra selama ibadah. Bersih, suci, dan penuh makna!
 
-### Gambar Produk
 
-| Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh  |
+| Gambar Produk  |
 | ------------- | 
 | ![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2025/3/1/548efa4d-f839-4d58-b84d-cc4dd656dfa6.jpg.webp?ect=4g)  | 
 
