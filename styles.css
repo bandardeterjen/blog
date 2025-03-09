@@ -68,6 +68,10 @@ footer a {
   color: white;
 }
 
+footer h3 {
+  text-align: left;
+}
+
  footer ul {
             list-style: none;
             padding: 0;
