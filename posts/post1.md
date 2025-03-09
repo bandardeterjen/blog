@@ -19,9 +19,10 @@ This is my first blog post content. You can write in Markdown format here.
 
 ### Pertanyaan Yang Sering Diajukan (FAQ)
 <details>
-<summary>Apakah bisa kirim di luar P. Jawa?</summary>
-### Pengiriman Luar Pulau
-Bisa bang, tapi harus dicek dahulu
+<summary>Apakah bisa kirim keluar P. Jawa?</summary>
+Bisa bang, tapi harus dicek dahulu ekspedinya 
+<summary>Apakah bisa COD?</summary>
+COD hanya ongkos kirim. Anda bisa COD barang+ongkir melalui marketplace
 </details>
 
 ### Alkholisi Sabun Haji Dan Umroh
