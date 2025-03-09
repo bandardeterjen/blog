@@ -15,3 +15,18 @@ This is my first blog post content. You can write in Markdown format here.
 | ------------- | ------------- | ------------- |
 | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-ebook-laundry-naik-kelas.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-instant-pos-laundry.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)  |
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
