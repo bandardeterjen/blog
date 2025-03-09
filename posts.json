@@ -1,0 +1,14 @@
+[
+  {
+    "title": "My First Blog Post",
+    "date": "January 1, 2023",
+    "excerpt": "This is a short excerpt from the blog post...",
+    "url": "posts/post1.html"
+  },
+  {
+    "title": "Second Post",
+    "date": "February 1, 2023",
+    "excerpt": "Another example blog post excerpt...",
+    "url": "posts/post2.html"
+  }
+]
