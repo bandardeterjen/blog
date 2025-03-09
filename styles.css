@@ -1,3 +1,4 @@
+<!-- styles.css -->
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
@@ -68,35 +69,12 @@ footer a {
   color: white;
 }
 
- footer ul {
-            list-style: none;
-            padding: 0;
-            text-align: left;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-        }
-
-        ul li a {
-            color: white;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-
-        ul li a:hover {
-            color: #ddd;
-        }
-
 .footer-content {
   display: flex;
   justify-content: space-between;
-  align-items: left;
+  align-items: center;
   flex-wrap: wrap;
 }
-.footer-column {
-  flex: 1 1 30%;
- }
 
 .social-media a {
   color: white;
