@@ -38,3 +38,4 @@ Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 - [ ] **Harga** : Rp 15500
 - [ ] **_Packing_** : kardus dan _bubble wrap_
 - [ ] **Berat kemasan** : 1300 gram
+- [ ] **Link Pembelian** : https://shopee.co.id
