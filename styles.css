@@ -94,7 +94,9 @@ footer a {
   align-items: center;
   flex-wrap: wrap;
 }
-
+.footer-column {
+  flex: 1 1 30%;
+ }
 .social-media a {
   color: white;
   margin: 0 0.5rem;
