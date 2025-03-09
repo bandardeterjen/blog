@@ -17,7 +17,7 @@ This is my first blog post content. You can write in Markdown format here.
 | ------------- | ------------- | ------------- |
 | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-ebook-laundry-naik-kelas.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-instant-pos-laundry.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)  |
 
-### Dropdown
+### FAQ
 <details>
 
 <summary>Tips for collapsed sections</summary>
@@ -34,7 +34,10 @@ You can add an image or a code block, too.
 
 </details>
 
-### TASK
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+### Alkholisi Sabun Haji Dan Umroh
+- [x] Kemasan jerigen
+- [ ] Bentuk cairan
+- [ ] Isi 1 liter
+- [ ] Harga Rp 15500
+- [ ] Packing kardus dan buble wrap
+- [ ] Berat kemasan 1300 gram
