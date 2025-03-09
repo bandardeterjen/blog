@@ -68,6 +68,26 @@ footer a {
   color: white;
 }
 
+ footer ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        ul li a:hover {
+            color: #ddd;
+        }
+
 .footer-content {
   display: flex;
   justify-content: space-between;
