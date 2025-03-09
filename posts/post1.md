@@ -28,7 +28,7 @@ COD hanya ongkos kirim. Anda bisa COD barang+ongkir melalui marketplace
 </details>
 <details>
 <summary>Ada nomor telepon yang bisa dihubungi?</summary>
-Silahkan Whatsapp ke nomor  [**085773009666**](https://wa.me/6285773009666)
+Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 </details>
 
 ### Alkholisi Sabun Haji Dan Umroh
