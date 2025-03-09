@@ -127,3 +127,10 @@ footer a {
   background: #999;
   cursor: not-allowed;
 }
+.table img {
+  background: #333;
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+  margin-top: 2rem;
+}
