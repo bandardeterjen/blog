@@ -21,6 +21,8 @@ This is my first blog post content. You can write in Markdown format here.
 <details>
 <summary>Apakah bisa kirim keluar P. Jawa?</summary>
 Bisa bang, tapi harus dicek dahulu ekspedinya 
+</details>
+<details>
 <summary>Apakah bisa COD?</summary>
 COD hanya ongkos kirim. Anda bisa COD barang+ongkir melalui marketplace
 </details>
