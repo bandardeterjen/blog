@@ -11,7 +11,7 @@ This is my first blog post content. You can write in Markdown format here.
 ## Section 2
 > This is a blockquote
 
-### Table
+### Gambar Produk
 
 | Gambar 1  | Gambar 2 | Gambar 3 |
 | ------------- | ------------- | ------------- |
@@ -28,7 +28,7 @@ COD hanya ongkos kirim. Anda bisa COD barang+ongkir melalui marketplace
 </details>
 <details>
 <summary>Ada nomor telepon yang bisa dihubungi?</summary>
-Silahkan Whatsapp ke nomor 085773009666
+Silahkan Whatsapp ke nomor  [**085773009666**](https://wa.me/6285773009666)
 </details>
 
 ### Alkholisi Sabun Haji Dan Umroh
