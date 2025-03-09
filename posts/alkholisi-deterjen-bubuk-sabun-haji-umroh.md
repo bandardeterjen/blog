@@ -6,14 +6,14 @@ Melaksanakan ibadah haji dan umroh adalah momen sakral yang tentu menjadi impian
 Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang ingin memastikan pakaian tetap bersih tanpa khawatir akan aroma yang mengganggu. Deterjen ini dirancang khusus tanpa pewangi tambahan, menjadikannya pilihan ideal bagi jemaah haji dan umroh yang membutuhkan kebersihan maksimal tanpa mengganggu kekhusyukan ibadah.
 
 ### Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh
-- [x] **Kemasan** : plastik
-- [ ] **Bentuk** : bubuk tanpa aroma
-- [ ] **Isi** : 500 gram
-- [ ] **Harga** : Rp 8000
-- [ ] **_Packing_** :  _bubble wrap_
-- [ ] **Berat kemasan** : 700 gram
-- [ ] **Tokopedia** : https://www.tokopedia.com/
-- [ ] **Shopee** : https://shopee.co.id
+[x] **Kemasan** : plastik
+[ ] **Bentuk** : bubuk tanpa aroma
+[ ] **Isi** : 500 gram
+[ ] **Harga** : Rp 8000
+[ ] **_Packing_** :  _bubble wrap_
+[ ] **Berat kemasan** : 700 gram
+[ ] **Tokopedia** : https://www.tokopedia.com/
+[ ] **Shopee** : https://shopee.co.id
 
 Dengan formula yang efektif, Alkholisi Deterjen Bubuk mampu mengangkat kotoran dan noda pada pakaian dengan sempurna. Tidak hanya itu, keunggulan lain dari produk ini adalah aman digunakan pada berbagai jenis kain, termasuk pakaian ihram yang sering digunakan oleh jemaah haji dan umroh. Karena tanpa aroma tambahan, deterjen ini tidak akan mengubah wangi pakaian Anda, sehingga Anda tetap merasa nyaman dan bersih tanpa harus khawatir dengan bau yang bisa mengganggu.
 
