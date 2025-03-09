@@ -5,6 +5,15 @@ Melaksanakan ibadah haji dan umroh adalah momen sakral yang tentu menjadi impian
 
 Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang ingin memastikan pakaian tetap bersih tanpa khawatir akan aroma yang mengganggu. Deterjen ini dirancang khusus tanpa pewangi tambahan, menjadikannya pilihan ideal bagi jemaah haji dan umroh yang membutuhkan kebersihan maksimal tanpa mengganggu kekhusyukan ibadah.
 
+### Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh
+- [x] **Kemasan** : plastik
+- [ ] **Bentuk** : bubuk tanpa aroma
+- [ ] **Isi** : 500 gram
+- [ ] **Harga** : Rp 8000
+- [ ] **_Packing_** :  _bubble wrap_
+- [ ] **Berat kemasan** : 700 gram
+- [ ] **Tokopedia** : https://www.tokopedia.com/
+- [ ] **Shopee** : https://shopee.co.id
 
 Dengan formula yang efektif, Alkholisi Deterjen Bubuk mampu mengangkat kotoran dan noda pada pakaian dengan sempurna. Tidak hanya itu, keunggulan lain dari produk ini adalah aman digunakan pada berbagai jenis kain, termasuk pakaian ihram yang sering digunakan oleh jemaah haji dan umroh. Karena tanpa aroma tambahan, deterjen ini tidak akan mengubah wangi pakaian Anda, sehingga Anda tetap merasa nyaman dan bersih tanpa harus khawatir dengan bau yang bisa mengganggu.
 
@@ -16,9 +25,9 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 
 ### Gambar Produk
 
-| Gambar 1  | Gambar 2 | Gambar 3 |
-| ------------- | ------------- | ------------- |
-| ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/main/images/bl-ebook-laundry-naik-kelas.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-instant-pos-laundry.webp)  | ![Alt text](https://raw.githubusercontent.com/bandarlaundry/blog/refs/heads/images/bl-ade-dari-sulawesi-ke-bogor-demi-ikut-kelas-sabun.webp)  |
+| Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh  |
+| ------------- | 
+| ![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2025/3/1/548efa4d-f839-4d58-b84d-cc4dd656dfa6.jpg.webp?ect=4g)  | 
 
 ### Pertanyaan Yang Sering Diajukan (FAQ)
 <details>
@@ -34,11 +43,4 @@ COD hanya ongkos kirim. Anda bisa COD barang+ongkir melalui marketplace
 Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 </details>
 
-### Alkholisi Sabun Haji Dan Umroh
-- [x] **Kemasan** : jerigen
-- [ ] **Bentuk** : cairan
-- [ ] **Isi** : 1 liter
-- [ ] **Harga** : Rp 15500
-- [ ] **_Packing_** : kardus dan _bubble wrap_
-- [ ] **Berat kemasan** : 1300 gram
-- [ ] **Link Pembelian** : https://shopee.co.id
+
