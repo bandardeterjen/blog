@@ -11,6 +11,7 @@ This is my first blog post content. You can write in Markdown format here.
 ## Section 2
 > This is a blockquote
 
+| Gambar 1  | Gambar 2 |
 | ------------- | ------------- |
 | ![Alt text](../logo.png)  | ![Alt text](../logo.png)  |
 
