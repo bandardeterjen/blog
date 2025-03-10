@@ -9,8 +9,8 @@ Mesin cuci merupakan alat yang sangat membantu dalam kehidupan sehari-hari, namu
 - **Harga** : Rp 49500
 - **_Packing_** : kardus _bubble wrap_
 - **Berat kemasan** : 700 gram
-- **Tokopedia** : https://www.tokopedia.com/
-- **Shopee** : https://shopee.co.id
+- **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
+- **Shopee** : https://shopee.co.id/laundrypedia
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
