@@ -6,7 +6,7 @@ Mesin cuci merupakan alat yang sangat membantu dalam kehidupan sehari-hari, namu
 - **Kemasan** : toples
 - **Bentuk** : bubuk 
 - **Isi** : 500 gram
-- **Harga** : Rp 
+- **Harga** : Rp 49500
 - **_Packing_** : kardus _bubble wrap_
 - **Berat kemasan** : 700 gram
 - **Tokopedia** : https://www.tokopedia.com/
