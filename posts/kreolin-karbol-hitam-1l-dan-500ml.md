@@ -2,6 +2,8 @@
 
 Kreolin Karbon Hitam adalah solusi praktis untuk pembersihan berbagai area di rumah dan tempat usaha Anda. Tersedia dalam ukuran 500 ml dan 1 liter, produk ini dirancang untuk membantu Anda menjaga kebersihan dengan lebih mudah dan efektif. Dikenal sebagai pembersih non-deterjenik, Kreolin Karbon Hitam dapat digunakan untuk membersihkan lantai, toilet, bahkan kandang hewan dengan hasil yang maksimal.
 
+![Kreolin Karbon Hitam](https://blogger.googleusercontent.com/img/a/AVvXsEgRgZaEvabA0TaLk9yPkYEs1YB9lPf2i_6TG01TVZKnanbP2ywfxniWHVgroDQbdoXepuZRd8DjBeHNxRyhEHSauJoQJwBPQQKc6UOJhQBP3K59U2eh_A4JSkKxEDmerLsXQMrX-Ga1UWoqzF-lfMef5bUfQ3qaS1P9h6NaCWmv6VY-o1k0eyhEQPCuqR1Y)
+
 ### Fitur dan Keunggulan Kreolin Karbon Hitam
 
 1. Pembersih Serbaguna  
