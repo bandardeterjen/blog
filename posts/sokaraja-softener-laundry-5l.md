@@ -34,7 +34,7 @@ Softener Laundry Sokaraja varian Philux merupakan produk pelembut pakaian yang d
 
 | Gambar Produk |  Gambar Produk |
 | ------------- |  ------------- |
-| ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhPXYmDNCQMUGxlbJs9Zxz8EsTLI8p3Imta8-2eyZGSbcqOaJfSIH8p9mnODybxmEF2J_QGjVvGKZtexr5gbCM2cci2ivHD18YGsZLAvHzp_-mCXDea-aG9liOMzX79b9mrg-i1cPwepYBq8f4AI9-lDuv7y1pdaWwqVApSyAXdrXE1ZAuDbFRnhUgNbG4)  | | ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhiY4hgjADEKhUkV28zJHDEi8D4osSiA_Unm6a5OBTE4bb0W28sjHtmqjSwSMYV_zTv0LDSwnFOsOxJUnVdC72EpTQbIfHQX0C-xG7xGyRnquqfRAHGDlWKgskQ3f9k9YIKncO6uZBQMjbpBZfMUUFuxhzF_KGmsBPHjBrs3Ph23tCyQu153em7mvJ2lXc)  | 
+| ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhPXYmDNCQMUGxlbJs9Zxz8EsTLI8p3Imta8-2eyZGSbcqOaJfSIH8p9mnODybxmEF2J_QGjVvGKZtexr5gbCM2cci2ivHD18YGsZLAvHzp_-mCXDea-aG9liOMzX79b9mrg-i1cPwepYBq8f4AI9-lDuv7y1pdaWwqVApSyAXdrXE1ZAuDbFRnhUgNbG4)  |  ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhiY4hgjADEKhUkV28zJHDEi8D4osSiA_Unm6a5OBTE4bb0W28sjHtmqjSwSMYV_zTv0LDSwnFOsOxJUnVdC72EpTQbIfHQX0C-xG7xGyRnquqfRAHGDlWKgskQ3f9k9YIKncO6uZBQMjbpBZfMUUFuxhzF_KGmsBPHjBrs3Ph23tCyQu153em7mvJ2lXc=rw)  | 
 
 Selain varian Philux, Softener Laundry Sokaraja juga tersedia dalam varian Sakura. Produk ini memiliki formula yang sama dengan varian Philux, namun memiliki aroma yang berbeda. Varian Sakura menghadirkan aroma bunga sakura yang segar dan lembut, memberikan sensasi kebersihan dan kenyamanan pada pakaian.
 
