@@ -32,7 +32,7 @@ Softener Laundry Sokaraja varian Philux merupakan produk pelembut pakaian yang d
 ### Softener Laundry Sokaraja Varian Sakura
 
 
-| Varian Sakura |  Varian Philuxk |
+| Varian Sakura |  Varian Philux |
 | ------------- |  ------------- |
 | ![Softener Laundry Sokaraja](https://qph.cf2.quoracdn.net/main-qimg-dd837bb85d8103ae25833e269c77d960)  |  ![Softener Laundry Sokaraja](https://qph.cf2.quoracdn.net/main-qimg-c2d236a6a4586f8521aa45edc8d7ba80)  | 
 
