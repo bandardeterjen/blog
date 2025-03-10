@@ -3,7 +3,7 @@
 Mesin cuci merupakan alat yang sangat membantu dalam kehidupan sehari-hari, namun seringkali kita lupa untuk merawat mesin cuci itu sendiri. Kotoran, kuman, bakteri, dan sisa deterjen yang mengendap dalam mesin cuci bisa menyebabkan bau tak sedap, iritasi kulit, dan bahkan kerusakan pada mesin itu sendiri. Untuk itu, Klenzo Washing Machine Cleaner hadir sebagai solusi pembersih mesin cuci yang efektif, baik untuk mesin cuci top load (bukaan atas) maupun front load (bukaan depan).
 
 ### Klenzo Washing Machine Cleaner
-- **Kemasan** : plastik
+- **Kemasan** : toples
 - **Bentuk** : bubuk 
 - **Isi** : 500 gram
 - **Harga** : Rp 
