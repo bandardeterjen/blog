@@ -20,10 +20,10 @@ Dengan ukuran yang praktis, Kreolin Karbon Hitam 500 ml dan 1 liter dapat diguna
 - **Kemasan** : botol dan jerigen
 - **Bentuk** : cairan
 - **Varian** : ori, sereh, dan pinus
-- **Isi** : 500 g dan 1 liter
+- **Isi** : 500 ml dan 1 liter
 - **Harga** : Rp 8000 - 15000
 - **_Packing_** : kardus +  _bubble wrap_
-- **Berat kemasan** : 1300 gram
+- **Berat kemasan** : 700 - 1300 gram
 - **Tokopedia** : https://www.tokopedia.com/
 - **Shopee** : https://shopee.co.id
   
