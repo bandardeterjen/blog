@@ -31,7 +31,7 @@ Mesin cuci merupakan alat yang sangat membantu dalam kehidupan sehari-hari, namu
 
 | Gambar Produk  |
 | ------------- | 
-| ![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2025/3/1/548efa4d-f839-4d58-b84d-cc4dd656dfa6.jpg.webp?ect=4g)  | 
+| ![Klenzo Washing Machine Cleaner](https://blogger.googleusercontent.com/img/a/AVvXsEhPcYRQ7k0DubvteMiDDqpQPMIxHimBRSodpSd8-3zAa48E_QrqEYFLC_ZZzu77MOL3GugJNjFSC0rcTOfzowXM8NTgX5SA_PiK7r1yAsvHfyCRydMwtuferxB3DKuXUnoAar7iWJTIrVgj-wuUzuQ5HqfZfDPdHmrYcvJnsB-hHL5Ja59yQtINeSyll23b)  | 
 
 ### Cara Pemakaian Klenzo Washing Machine Cleaner
 
