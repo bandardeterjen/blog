@@ -12,8 +12,8 @@ Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang
 - **Harga** : Rp 8000
 - **_Packing_** :  _bubble wrap_
 - **Berat kemasan** : 700 gram
-- **Tokopedia** : https://www.tokopedia.com/
-- **Shopee** : https://shopee.co.id
+- **Tokopedia** : [https://www.tokopedia.com/](https://tokopedia.link/HEyonWYZTQb)
+- **Shopee** : [https://shopee.co.id](https://shopee.co.id/laundrypedia)
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
