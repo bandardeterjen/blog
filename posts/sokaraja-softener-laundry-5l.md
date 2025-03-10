@@ -11,8 +11,8 @@ Dalam dunia pencucian pakaian, softener atau pelembut pakaian memegang peranan p
 - **Harga** : mulai Rp 65000
 - **_Packing_** : kardus + _bubble wrap_
 - **Berat kemasan** : 5500 gram
-- **Tokopedia** : https://www.tokopedia.com/
-- **Shopee** : https://shopee.co.id
+- **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
+- **Shopee** : https://shopee.co.id/laundrypedia
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
