@@ -26,8 +26,8 @@ Dengan ukuran yang praktis, Kreolin Karbon Hitam 500 ml dan 1 liter dapat diguna
 - **Harga** : Rp 8000 - 15000
 - **_Packing_** : kardus +  _bubble wrap_
 - **Berat kemasan** : 700 - 1300 gram
-- **Tokopedia** : [https://www.tokopedia.com/](https://tokopedia.link/HEyonWYZTQb)
-- **Shopee** : [https://shopee.co.id](https://shopee.co.id/laundrypedia)
+- **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
+- **Shopee** : https://shopee.co.id/laundrypedia
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
@@ -43,7 +43,7 @@ Larutkan Kreolin Karbon Hitam dalam air dan semprotkan ke kandang hewan untuk me
 Kreolin Karbon Hitam 500 ml dan 1 liter adalah pilihan tepat untuk Anda yang membutuhkan pembersih serbaguna dengan harga terjangkau dan manfaat maksimal. Dengan formula non-deterjenik dan aroma sereh dan pinus yang segar, produk ini cocok untuk penggunaan di rumah maupun usaha. Dapatkan kebersihan yang lebih efektif dan nyaman, hanya dengan Kreolin Karbon Hitam!
 
 
-| Kreolin 1L  |  Kreolin 1L  |  Kreolin 500 ml  |
+| 1 liter  |  1 liter  |  500 ml  |
 | -------------  |  -------------  |   ------------- |
 | ![Kreolin Karbol Hitam](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2022/3/23/663ea769-d2d5-4d39-8701-463e5f77fa8c.jpg.webp?ect=4g)  | ![Kreolin Karbol Hitam](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2022/3/23/a6d3ce8e-533f-41f1-ade4-279595bdc469.jpg.webp?ect=4g)  | ![Kreolin Karbol Hitam](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2022/3/23/000ef776-141f-424a-a529-e203159836f0.jpg.webp?ect=4g)  | 
 
