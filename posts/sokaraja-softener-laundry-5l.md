@@ -32,9 +32,9 @@ Softener Laundry Sokaraja varian Philux merupakan produk pelembut pakaian yang d
 ### Softener Laundry Sokaraja Varian Sakura
 
 
-| Gambar Produk  |
-| ------------- | 
-| ![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://images.tokopedia.net/img/cache/100-square/VqbcmM/2025/3/1/548efa4d-f839-4d58-b84d-cc4dd656dfa6.jpg.webp?ect=4g)  | 
+| Gambar Produk |  Gambar Produk |
+| ------------- |  ------------- |
+| ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhPXYmDNCQMUGxlbJs9Zxz8EsTLI8p3Imta8-2eyZGSbcqOaJfSIH8p9mnODybxmEF2J_QGjVvGKZtexr5gbCM2cci2ivHD18YGsZLAvHzp_-mCXDea-aG9liOMzX79b9mrg-i1cPwepYBq8f4AI9-lDuv7y1pdaWwqVApSyAXdrXE1ZAuDbFRnhUgNbG4)  | | ![Softener Laundry Sokaraja](https://blogger.googleusercontent.com/img/a/AVvXsEhiY4hgjADEKhUkV28zJHDEi8D4osSiA_Unm6a5OBTE4bb0W28sjHtmqjSwSMYV_zTv0LDSwnFOsOxJUnVdC72EpTQbIfHQX0C-xG7xGyRnquqfRAHGDlWKgskQ3f9k9YIKncO6uZBQMjbpBZfMUUFuxhzF_KGmsBPHjBrs3Ph23tCyQu153em7mvJ2lXc)  | 
 
 Selain varian Philux, Softener Laundry Sokaraja juga tersedia dalam varian Sakura. Produk ini memiliki formula yang sama dengan varian Philux, namun memiliki aroma yang berbeda. Varian Sakura menghadirkan aroma bunga sakura yang segar dan lembut, memberikan sensasi kebersihan dan kenyamanan pada pakaian.
 
@@ -63,6 +63,6 @@ Silahkan Whatsapp ke nomor [085773009666](https://wa.me/6285773009666)
 </details>
 
 ---
-> Postingan ini ditulis pada tanggal: **9 Maret 2025**
+> Postingan ini ditulis pada tanggal: **10 Maret 2025**
 
 — Oleh: [**Wahyudi**](/blog/author/wahyudi.html)
