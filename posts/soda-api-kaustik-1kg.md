@@ -52,10 +52,10 @@ Dengan harga yang terjangkau, produk ini memberikan hasil pembersihan yang efekt
 Natrium Hidroksida (NaOH) dalam bentuk soda api/kaustik adalah bahan kimia yang serbaguna dan sangat berguna untuk berbagai keperluan, mulai dari pembersihan rumah tangga, pengolahan limbah, hingga pembuatan produk kimia. Penggunaan yang tepat akan memberikan hasil yang optimal, namun pastikan untuk selalu berhati-hati dan mengikuti prosedur keselamatan saat menggunakannya. Produk Natrium Hidroksida 1 kg ini sangat cocok untuk berbagai kebutuhan, baik pribadi maupun usaha, dengan harga yang ekonomis dan hasil yang maksimal.
 
 
-| NaOH | 
-| ------------- | 
-| ![Soda Api](https://qph.cf2.quoracdn.net/main-qimg-1d5069fb1fc3af8c8675c0aad1068c7e)  | 
+ ![Soda Api](https://qph.cf2.quoracdn.net/main-qimg-1d5069fb1fc3af8c8675c0aad1068c7e)  
 
+ ###### Soda Api
+ 
 ### Cara Menggunakan Natrium Hidroksida (NaOH) dengan Aman
 
 Meskipun memiliki banyak manfaat, natrium hidroksida merupakan bahan kimia yang sangat korosif. Oleh karena itu, perlu digunakan dengan hati-hati. Berikut adalah beberapa langkah penting yang perlu diperhatikan saat menggunakan NaOH:
