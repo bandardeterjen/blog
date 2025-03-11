@@ -1,4 +1,4 @@
-# Natrium Hidroksida (NaOH) Soda Api/Kustik Berat 1 Kg: Pembersih dan Bahan Kimia Serbaguna
+# Natrium Hidroksida (NaOH) Soda Api/Kaustik Berat 1 Kg: Pembersih dan Bahan Kimia Serbaguna
 
 Natrium Hidroksida (NaOH), yang lebih dikenal dengan sebutan soda api atau kaustik soda, adalah salah satu bahan kimia yang memiliki banyak kegunaan di berbagai industri dan kegiatan rumah tangga. Dalam bentuk padat, natrium hidroksida umumnya tersedia dalam kemasan 1 kg yang mudah digunakan untuk berbagai keperluan. Artikel ini akan mengulas lebih lanjut tentang Natrium Hidroksida, kegunaannya, serta cara aman menggunakannya.
 
@@ -24,8 +24,6 @@ Di sektor kimia, NaOH adalah bahan baku penting dalam pembuatan berbagai senyawa
 
 5. Pembersih Saluran Pembuangan  
 NaOH sering digunakan dalam produk pembersih saluran pembuangan untuk mengurai sumbatan yang disebabkan oleh lemak, minyak, rambut, atau bahan organik lainnya. Reaksi kimia yang dihasilkan oleh NaOH dapat membantu melarutkan dan membersihkan kotoran tersebut, memastikan saluran pembuangan berfungsi dengan baik.
-
-
 
 ### Soda Api
 - **Kemasan** : plastik
