@@ -29,9 +29,9 @@ Mesin cuci merupakan alat yang sangat membantu dalam kehidupan sehari-hari, namu
 4. *Merawat Mesin Cuci Agar Bekerja Maksimal dan Lebih Tahan Lama*
    Pembersihan rutin dengan Klenzo tidak hanya membersihkan mesin cuci, tetapi juga merawat mesin agar tetap berfungsi maksimal. Ini akan meningkatkan usia pakai mesin cuci dan mencegah kerusakan yang bisa terjadi akibat penumpukan kotoran.
 
-| Gambar Produk  |
-| ------------- | 
-| ![Klenzo Washing Machine Cleaner](https://blogger.googleusercontent.com/img/a/AVvXsEhPcYRQ7k0DubvteMiDDqpQPMIxHimBRSodpSd8-3zAa48E_QrqEYFLC_ZZzu77MOL3GugJNjFSC0rcTOfzowXM8NTgX5SA_PiK7r1yAsvHfyCRydMwtuferxB3DKuXUnoAar7iWJTIrVgj-wuUzuQ5HqfZfDPdHmrYcvJnsB-hHL5Ja59yQtINeSyll23b)  | 
+ ![Klenzo Washing Machine Cleaner](https://blogger.googleusercontent.com/img/a/AVvXsEhPcYRQ7k0DubvteMiDDqpQPMIxHimBRSodpSd8-3zAa48E_QrqEYFLC_ZZzu77MOL3GugJNjFSC0rcTOfzowXM8NTgX5SA_PiK7r1yAsvHfyCRydMwtuferxB3DKuXUnoAar7iWJTIrVgj-wuUzuQ5HqfZfDPdHmrYcvJnsB-hHL5Ja59yQtINeSyll23b) 
+
+###### Klenzo Pembersih Mesin Cuci
 
 ### Cara Pemakaian Klenzo Washing Machine Cleaner
 
