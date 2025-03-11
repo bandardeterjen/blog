@@ -54,7 +54,7 @@ Natrium Hidroksida (NaOH) dalam bentuk soda api/kaustik adalah bahan kimia yang 
 
 | NaOH | 
 | ------------- | 
-| ![Soda Api]([https://qph.cf2.quoracdn.net/main-qimg-dd837bb85d8103ae25833e269c77d960](https://qph.cf2.quoracdn.net/main-qimg-1d5069fb1fc3af8c8675c0aad1068c7e))  | 
+| ![Soda Api]([https://qph.cf2.quoracdn.net/main-qimg-1d5069fb1fc3af8c8675c0aad1068c7e)  | 
 
 ### Cara Menggunakan Natrium Hidroksida (NaOH) dengan Aman
 
