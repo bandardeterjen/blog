@@ -11,6 +11,16 @@ This is my first blog post content. You can write in Markdown format here.
 ## Section 2
 > This is a blockquote
 
+# Heading
+sengaja di tengah
+## Heading
+### Heading
+#### Heading
+###### Heading
+####### Heading
+Ini juga sengaja
+
+
 ### Gambar Produk
 
 | Gambar 1  | Gambar 2 | Gambar 3 |
