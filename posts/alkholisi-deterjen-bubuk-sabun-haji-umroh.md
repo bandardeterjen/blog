@@ -28,7 +28,7 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 
 
 ![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://blogger.googleusercontent.com/img/a/AVvXsEjtC3ECd4LpsPAbtfajyNGBscHWErItR0Qw9X-nAROj-JbwsJz4Qz9LCt8upKjeKx2uC5CbhF374nquv-tvr0-DTvFTPKpm2SMOCkMeydx37e5i_hNNrwEAoamkTyqoLK2vnyXKwb9kvRDnjNH1zNB3dU4mGRed9DSdwK0l2G7Ib1KvHAGVibJRXcRub7aq)   
-###### Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh Bubuk 500 gr
+###### Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh 
 
 ### Pertanyaan Yang Sering Diajukan (FAQ)
 <details>
