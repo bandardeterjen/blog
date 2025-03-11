@@ -31,7 +31,7 @@ NaOH sering digunakan dalam produk pembersih saluran pembuangan untuk mengurai s
 - **Kemasan** : plastik
 - **Bentuk** : serbuk
 - **Isi** : 1 kg
-- **Harga** : mulai Rp 65000
+- **Harga** : Rp 30000
 - **_Packing_** : kardus + _bubble wrap_
 - **Berat kemasan** : 1300 gram
 - **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
