@@ -168,3 +168,57 @@ table tr td {
 table tr th :first-child, table tr td :first-child { margin-top: 0; }
 table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 
+.ticker-container {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.ticker-title {
+  font-weight: bold;
+  margin-right: 15px;
+  white-space: nowrap;
+}
+
+.ticker-content {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+#news-ticker {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  animation: scroll-left 15s linear infinite;
+}
+
+#news-ticker li {
+  margin-right: 30px;
+  white-space: nowrap;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .ticker-title {
+    display: none; /* Hide title on smaller screens */
+  }
+
+  #news-ticker {
+    font-size: 14px;
+  }
+}
