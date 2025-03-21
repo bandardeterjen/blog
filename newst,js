@@ -9,11 +9,11 @@ function fetchNews() {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve([
-        "Breaking News: Stock Market Hits All-Time High",
-        "New Study Reveals Benefits of Meditation",
-        "Tech Giant Announces Revolutionary AI Tool",
-        "Global Climate Summit Kicks Off in Paris",
-        "Local Community Celebrates Annual Festival",
+        "Breaking News: ISHG Turun, Pasar Ditutup!",
+        "Indonesia Gelap Semakin Nyata, Daya Beli Melemah",
+        "Tahun 2025 Ekonomi Indonesia Terburuk",
+        "Investor Asing Ogah Investasi Di Indonesia, Banyak Perampok!",
+        "UMKM Semakin Terseok, Penjualan Sepi Omzet Menurun",
       ]);
     }, 1000);
   });
