@@ -223,20 +223,4 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
   }
 }
 
-/* Fixed Footer */
-.page-footer {
-  position: fixed;
-  right: 0;
-  bottom: 50px;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  z-index: 1;
-  color: black;
-  background: white;
-}
 
-.page-footer a {
-  display: flex;
-  margin-left: 4px;
-}
