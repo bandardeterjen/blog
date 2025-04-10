@@ -72,6 +72,21 @@ body {
   }
 }
 
+/* Button Styling */
+button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
 footer {
   background: #4169E1;
   color: white;
