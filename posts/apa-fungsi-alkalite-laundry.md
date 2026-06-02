@@ -23,6 +23,8 @@ Bahan utama alkalite umumnya berasal dari senyawa alkali seperti Sodium Hydroxid
 
 Alkalite bekerja dengan meningkatkan pH larutan sehingga lemak dan minyak lebih mudah diemulsikan. Dalam kondisi basa, kotoran yang menempel pada kain menjadi lebih lunak dan terurai sehingga lebih mudah diangkat saat proses pencucian.
 
+![Apa Fungsi Alkalite Laundry dan Bagaimana Cara Membuatnya?](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-apa-fungsi-alkalit-laundry.png?w=1024)
+
 Kotoran yang biasanya efektif diatasi antara lain dekil akibat keringat, noda minyak goreng, lemak makanan, darah, serta residu organik yang menempel pada kain. Karena itu, alkalite sering digunakan untuk mencuci perlengkapan tidur dan perlengkapan mandi yang memiliki tingkat kotoran cukup tinggi.
 
 ## Apa Kelebihan Alkalite Laundry?
