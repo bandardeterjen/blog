@@ -19,7 +19,7 @@ Semir ban silicon adalah produk perawatan ban yang menggunakan senyawa silikon s
 
 
 
-![Alkholisi Deterjen Bubuk Sabun Haji Dan Umroh](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-cara-buat-semir-ban-silicon-cair.png?w=1024)
+![Cara Membuat Semir Ban Mobil Sendiri Berbahan Silicon (Semir Silicon Cair)](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-cara-buat-semir-ban-silicon-cair.png?w=1024)
 
 Di pasaran, semir ban berbahan silikon umumnya terbagi menjadi tiga bentuk, yaitu semir silicon gel, semir silicon cair emulsi, dan semir silicon foam atau busa. Masing-masing memiliki karakteristik aplikasi yang berbeda.
 
