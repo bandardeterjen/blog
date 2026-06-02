@@ -15,6 +15,8 @@ Aqua Regia atau Air Raja adalah campuran dua asam kuat, yaitu asam klorida (HCl)
 
 Aqua Regia berasal dari bahasa Latin yang berarti “Air Raja”. Nama ini diberikan karena kemampuannya melarutkan logam-logam mulia yang sulit bereaksi dengan asam biasa.
 
+![Apa Itu Aqua Regia (Air Raja)? Fungsi, Cara Kerja, Kelebihan, dan Risikonya](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-cara-buat-air-regia.png?w=1024)
+
 Larutan ini banyak digunakan dalam analisis kimia, penelitian laboratorium, serta proses pemurnian logam berharga. Aqua Regia bukan bahan yang digunakan untuk kebutuhan rumah tangga dan hanya ditangani oleh personel yang memiliki pelatihan memadai.
 
 ## Bagaimana Cara Kerja Aqua Regia?
