@@ -44,7 +44,12 @@ Asam nitrat berfungsi sebagai oksidator yang menyerang permukaan logam, sedangka
 
 ## Bagaimana Perbandingan HCl dan HNO3?
 
-KarakteristikAsam Klorida (HCl)Asam Nitrat (HNO3)JenisAsam kuatAsam kuat sekaligus oksidatorPenggunaan IndustriPembersihan logam, produksi PVCPemurnian logam dan bahan kimia industriSifat BahayaKorosifKorosif dan oksidator kuatStatusBahan kimia berbahayaBahan kimia berbahaya 
+| Karakteristik | Asam Klorida (HCl) | Asam Nitrat (HNO3) |
+| --- | --- | --- |
+| Jenis | Asam kuat | Asam kuat sekaligus oksidator |
+| Penggunaan Industri | Pembersihan logam, produksi PVC | Pemurnian logam dan bahan kimia industri |
+| Sifat Bahaya | Korosif | Korosif dan oksidator kuat |
+| Status | Bahan kimia berbahaya | Bahan kimia berbahaya | 
 
 ## Apa Tips Keselamatan Saat Menangani Bahan Kimia Korosif?
 
