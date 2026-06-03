@@ -36,6 +36,8 @@ Bibit parfum menjadi komponen utama yang menentukan kualitas hasil akhir. Aroma 
 
 Fixative seperti Fixadura sering digunakan oleh pelaku usaha laundry untuk membantu meningkatkan ketahanan dan intensitas aroma. Penggunaan bahan berkualitas akan menghasilkan parfum yang lebih konsisten.
 
+![Cara Membuat Parfum Laundry Tahan Lama dengan Formula Sederhana dan Ekonomis](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-cara-buat-parfum-laundry-tahan-lama.png?w=1024)   
+
 ## Bagaimana Cara Membuat Parfum Laundry Tahan Lama?
 
 Langkah pertama adalah menyiapkan peralatan seperti gelas ukur, wadah pencampur, dan botol penyimpanan. Peralatan yang bersih membantu menjaga kualitas parfum tetap stabil.
