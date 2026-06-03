@@ -19,6 +19,8 @@ Peserta mendapatkan bahan praktek yang sudah disediakan, hasil produk dapat diba
 
 Kursus pelatihan sabun di Bogor adalah program pembelajaran berbasis praktek yang dirancang untuk membantu peserta memahami formulasi dan proses pembuatan berbagai produk pembersih serta perawatan rumah tangga.
 
+!Kursus Pelatihan Sabun di Bogor 085773009666: Belajar Membuat Produk Sabun dan Homecare Langsung Praktek](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-kursus-pelatihan-sabun-bogor.png?w=1024)   
+
 Pelatihan ini cocok bagi pemula, pemilik usaha laundry, pelaku UMKM, ibu rumah tangga, maupun siapa saja yang ingin memproduksi kebutuhan sendiri atau membangun merek produk lokal.
 
 ## Bagaimana Cara Kerja Pelatihannya?
