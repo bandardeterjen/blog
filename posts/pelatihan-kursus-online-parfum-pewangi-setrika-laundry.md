@@ -16,6 +16,8 @@
 <li>Dapat menjadi peluang bisnis produk pewangi laundry.</li>
 </ul>
 
+![Pelatihan Kursus Online Parfum Pewangi Setrika Laundry WA 085773009666](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-pelatiahan-online-pelicin-setrika-laundry.png?w=1024) 
+
 <h2>Apa Itu Pelatihan Kursus Online Parfum Pewangi Setrika Laundry?</h2>
 
 <p>Pelatihan ini merupakan program pembelajaran yang mengajarkan cara membuat parfum laundry dan pelicin setrika dengan standar yang umum digunakan dalam industri laundry modern. Peserta mempelajari karakteristik bahan baku, komposisi parfum, teknik pencampuran, dan proses pengemasan produk.</p>
