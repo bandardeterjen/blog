@@ -17,6 +17,8 @@ Dengan penggunaan sekitar 30 ml yang dicampurkan ke dalam satu ember air, Kreoli
 
 Kreolin Karbol Hitam merupakan cairan pembersih yang diformulasikan untuk membantu membersihkan berbagai permukaan. Produk ini sering digunakan di rumah, peternakan, tempat usaha, dan area yang membutuhkan kebersihan ekstra.
 
+![Kreolin Karbol Hitam Pembersih Serbaguna dengan Aroma Pinus dan Sereh](https://bandardeterjen.wordpress.com/wp-content/uploads/2026/06/bd-karbol-hitam.png?w=1024)
+
 Karakteristik utama produk ini adalah aroma khas disinfektan yang dipadukan dengan wangi pinus dan sereh sehingga memberikan kesan bersih setelah digunakan.
 
 ## Bagaimana Cara Kerja Kreolin Karbol Hitam?
